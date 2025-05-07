@@ -51,6 +51,8 @@ Este comando irá gerar os gráficos semanais de visitas e cargas da safra Harve
 
 ## Exemplo de Resultado:
 Abaixo está um exemplo de como os gráficos gerados se apresentam:
+![image](https://github.com/user-attachments/assets/c459b5cb-c430-4788-be76-a399d643b3ce)
+![image](https://github.com/user-attachments/assets/479a1ad5-d9cf-4ccc-8154-09987e442d4b)
 
 
 ## Contribuindo para o Projeto:
